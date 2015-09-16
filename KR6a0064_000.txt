@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 瞻婆比丘經
+#+DATE: 2015-08-30 19:30:01.711455
+#+PROPERTY: JUAN 0
